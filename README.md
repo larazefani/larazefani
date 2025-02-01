@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larazefani
-- 👀 I’m interested in Data Analytics, Finance, and Renewable Energy Development
+- 👀 I’m interested in Data Analytics and Data Engineering
 - 🌱 I’m currently learning Data Visualization, SQL, Python and other programming language
 - 💞️ I’m looking to collaborate on Data Analysis project about business development, environment, and many more
 - 📫 How to reach me:
